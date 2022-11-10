@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Switch19
+- 👋 Hi, I’m @SwitchTega
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on Html, Css, Javascript, Tailwind Css
